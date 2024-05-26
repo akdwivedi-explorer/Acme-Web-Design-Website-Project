@@ -1,10 +1,10 @@
-This is the my first frontend project 
+--This is the my first frontend project 
 
 
 --TECH STACK USED
 --HTML5
 --CSS3
-
+--
 This is a responsive website.
 
 below are the screenshots attached for the reference.....
